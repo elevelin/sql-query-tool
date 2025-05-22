@@ -1,4 +1,4 @@
-# 🧮 SQL Query Tool (CLI - SQLite)
+# SQL Query Tool (CLI - SQLite)
 
 A Python CLI tool that lets you explore a sample e-commerce database using real SQL queries. Preloaded with data for users, orders, products, and order items — run predefined reports or custom SQL directly.
 

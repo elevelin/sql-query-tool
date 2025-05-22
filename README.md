@@ -27,17 +27,14 @@ cd sql-query-tool
 
 pip3 install tabulate
 ```
-## ▶️ Run I
-t
+## ▶️ Run It
 ```bash
 
 python3 main.py
 ```
 You’ll see a menu like:
-
-```mathematica
-
 📊 SQL Query Tool Menu:
+```mathematica
 1. Top customers by total spend
 2. Monthly revenue
 3. List all users
@@ -46,9 +43,8 @@ You’ll see a menu like:
 ```
 Choose a number to run that query — or write your own with option 4.
 
-## 🧪 Schema Overview
+## 🧪Schema Overview
 ```users (id, name, email, created_at)
-
 products (id, name, price)
 
 orders (id, user_id, order_date)
@@ -68,12 +64,12 @@ sql-query-tool/
 ```
 ## 🚀 Why This Project?
 
-## This tool shows:
+This tool shows:
 
-Proficiency in raw SQL (joins, group by, aggregates)
+- Proficiency in raw SQL (joins, group by, aggregates)
 
-Understanding of database schema design
+- Understanding of database schema design
 
-Python + SQLite integration
+- Python + SQLite integration
 
-Real-world reporting use cases
+- Real-world reporting use cases
